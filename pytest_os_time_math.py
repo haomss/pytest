@@ -19,8 +19,10 @@
 # before2 = time.time() - 60*60*24*2
 # print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(before2)))
 
-import math
 
-print(math.ceil(1.2)) #2
-print(math.floor(1.2)) #1
-print(math.sqrt(36)) #立方根
+# import math
+# print(math.ceil(1.2)) #2
+# print(math.floor(1.2)) #1
+# print(math.sqrt(36)) #立方根
+
+
