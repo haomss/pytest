@@ -1,6 +1,7 @@
 from time import sleep
 
 import pytest
+import yaml
 from selenium import webdriver
 
 from web_ui.pageObject.page.mainPage import mainPage
